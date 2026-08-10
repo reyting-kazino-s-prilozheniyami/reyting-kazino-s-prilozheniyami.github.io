@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-kazino-s-prilozheniyami.github.io
+Sitemap: https://reyting-kazino-s-prilozheniyami.github.io/sitemap.xml
